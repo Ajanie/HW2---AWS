@@ -1,4 +1,4 @@
-# HW2---AWS
+# HW3---AWS
 1). Create your first Amazon EC2 instance (Linux)
 
 Amazon EC2 is the most famous AWS service and allows to launch different types of cloud instances and pay for them with a pay-per-use approach. EC2 provides complete control of computing resources and allows to run on Amazon’s computing environment. Amazon EC2 reduces the time required to obtain and boot new server instances to minutes. This allows to quickly scale capacity, both up and down, as computing requirements change. Amazon EC2 allows to build and configure instances as like, from operating system to applications.
